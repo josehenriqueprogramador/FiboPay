@@ -114,7 +114,7 @@ open index.html
 Desenvolvedor de Software | Data Science
 
 🔗 LinkedIn: [https://linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
-📺 YouTube: [https://youtube.com/seu-canal](https://youtube.com/seu-canal)
+📺 YouTube: [https://youtube.com/seu-canal](https://youtube.com/@caminho_do_codigo?si=0ioqgKMNW0kKDMKx)
 
 ---
 
