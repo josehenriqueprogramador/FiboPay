@@ -6,7 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/josehenriqueprogramador/fibopay?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/josehenriqueprogramador/fibopay?style=for-the-badge)
 ![License](https://img.shields.io/github/license/josehenriqueprogramador/fibopay?style=for-the-badge)
-![PWA Ready](https://img.shields.io/badge/PWA-Ready-orange?style=for-the-badge
+![PWA Ready](https://img.shields.io/badge/PWA-Ready-orange?style=for-the-badge)
 
 ---
 
