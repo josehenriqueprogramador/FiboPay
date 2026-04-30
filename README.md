@@ -6,13 +6,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/josehenriqueprogramador/fibopay?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/josehenriqueprogramador/fibopay?style=for-the-badge)
 ![License](https://img.shields.io/github/license/josehenriqueprogramador/fibopay?style=for-the-badge)
-![PWA Ready](https://img.shields.io/badge/PWA-Ready-orange?style=for-the-badge)
-
----
-
-## 🎬 Preview
-
-![FiboPay Preview](./assets/preview.gif)
+![PWA Ready](https://img.shields.io/badge/PWA-Ready-orange?style=for-the-badge
 
 ---
 
@@ -44,25 +38,6 @@ Ao invés de dividir valores de forma linear, o sistema utiliza a **Sequência d
   Gere relatórios profissionais das simulações
 
 ---
-
-## 🧠 Lógica Matemática
-
-O modelo utiliza distribuição proporcional baseada em pesos da sequência:
-
-### 1. Sequência
-$F = \{f_1, f_2, \dots, f_n\}$
-
-### 2. Soma dos Pesos
-$S = \sum_{i=1}^{n} f_i$
-
-### 3. Parcela
-$$P_i = \left( \frac{f_i}{S} \right) \cdot V$$
-
-📌 Onde:
-- $P_i$ = valor da parcela  
-- $f_i$ = termo da sequência  
-- $S$ = soma total  
-- $V$ = valor total  
 
 ---
 
