@@ -1,5 +1,3 @@
-
-````markdown
 # 💸 FiboPay PRO
 > **Transformando a Sequência de Fibonacci em uma nova forma de parcelamento inteligente.**
 
@@ -20,54 +18,72 @@
 
 ## ✨ Visão Geral
 
-O **FiboPay PRO** redefine o conceito de parcelamento. Em vez de divisões lineares rígidas, ele utiliza a **Sequência de Fibonacci** para criar um escalonamento de parcelas orgânico e adaptável.  
+O **FiboPay PRO** é um simulador financeiro inovador que redefine o conceito de parcelamento.
 
-É a solução ideal para quem busca modelos alternativos de crédito, permitindo que os pagamentos acompanhem o crescimento da saúde financeira do usuário.
+Ao invés de dividir valores de forma linear, o sistema utiliza a **Sequência de Fibonacci** para gerar parcelas dinâmicas, criando um modelo mais flexível, inteligente e alinhado com a realidade financeira do usuário.
+
+💡 **Resultado:** pagamentos que acompanham a evolução da capacidade financeira.
 
 ---
 
-## 🚀 Diferenciais de Produto
+## 🚀 Diferenciais
 
-- **Parcelas Crescentes:** Comece pagando menos e escale conforme seu fluxo de caixa aumenta  
-- **Amortização Decrescente:** Reduza o peso das parcelas futuras com pagamentos iniciais mais agressivos  
-- **Visualização de Dados:** Gráficos comparativos entre o modelo Fibonacci e o Linear (Chart.js)  
-- **Experiência Nativa (PWA):** Instale no celular ou desktop e utilize mesmo sem conexão  
+- 📈 **Parcelas Crescentes**  
+  Comece pagando menos e aumente gradualmente
+
+- 📉 **Modelo Decrescente**  
+  Reduza o impacto futuro com pagamentos iniciais maiores
+
+- 📊 **Visualização Inteligente**  
+  Compare facilmente Fibonacci vs modelo linear
+
+- 📱 **PWA (Progressive Web App)**  
+  Instale no dispositivo e utilize offline
+
+- 📄 **Exportação em PDF**  
+  Gere relatórios profissionais das simulações
 
 ---
 
 ## 🧠 Lógica Matemática
 
-O cálculo das parcelas utiliza o **Princípio da Soma dos Pesos**:
+O modelo utiliza distribuição proporcional baseada em pesos da sequência:
 
-1. **Geração da sequência:**  
-   $F = \{f_1, f_2, \dots, f_n\}$  
+### 1. Sequência
+$F = \{f_1, f_2, \dots, f_n\}$
 
-2. **Soma total dos pesos:**  
-   $S = \sum_{i=1}^{n} f_i$  
+### 2. Soma dos Pesos
+$S = \sum_{i=1}^{n} f_i$
 
-3. **Cálculo da Parcela:**  
-   $$P_i = \left( \frac{f_i}{S} \right) \cdot V$$  
+### 3. Parcela
+$$P_i = \left( \frac{f_i}{S} \right) \cdot V$$
+
+📌 Onde:
+- $P_i$ = valor da parcela  
+- $f_i$ = termo da sequência  
+- $S$ = soma total  
+- $V$ = valor total  
 
 ---
 
 ## 🧪 Como Usar
 
-1. Insira o valor total da compra  
+1. Insira o valor total  
 2. Escolha o número de parcelas  
 3. Selecione o modelo:
    - Fibonacci crescente  
    - Fibonacci decrescente  
 4. Visualize o gráfico comparativo  
-5. Exporte em PDF (opcional)  
+5. Exporte em PDF (opcional)
 
 ---
 
 ## 💡 Casos de Uso
 
-- Fintechs e startups de crédito  
-- Simuladores educacionais  
-- Plataformas de e-commerce  
-- Ferramentas de planejamento financeiro pessoal  
+- 💳 Fintechs e soluções de crédito  
+- 🛒 Plataformas de e-commerce  
+- 🎓 Simuladores educacionais  
+- 📊 Planejamento financeiro pessoal  
 
 ---
 
@@ -83,42 +99,42 @@ O cálculo das parcelas utiliza o **Princípio da Soma dos Pesos**:
 
 ---
 
-## ⚙️ Como Executar
+## ⚙️ Execução
 
 ```bash
 # Clone o repositório
 git clone https://github.com/josehenriqueprogramador/fibopay.git
 
-# Acesse o diretório
+# Entre na pasta
 cd fibopay
 
-# Abra o projeto
+# Abra no navegador
 open index.html
-````
+```
 
 ---
 
 ## 🗺️ Roadmap
 
-* [ ] Integração com API de crédito
-* [ ] Simulação com juros reais
-* [ ] Dashboard analítico (BI)
-* [ ] Backend com persistência (Node.js ou Python)
-* [ ] Autenticação de usuários
+- [ ] Integração com APIs de crédito  
+- [ ] Simulação com juros reais  
+- [ ] Dashboard analítico (BI)  
+- [ ] Backend com persistência (Node.js / Python)  
+- [ ] Autenticação de usuários  
 
 ---
 
 ## 👨‍💻 Autor
 
-**José Henrique Jardim**
-Desenvolvedor de Software | Data Science
+**José Henrique Jardim**  
+Desenvolvedor de Software | Data Science  
 
-🔗 LinkedIn: [https://linkedin.com/in/seu-link](https://linkedin.com/in/seu-link)
-📺 YouTube: [https://youtube.com/caminho do código](https://youtube.com/@caminho_do_codigo?si=0ioqgKMNW0kKDMKx)
+🔗 LinkedIn: https://linkedin.com/in/seu-link  
+📺 YouTube: https://youtube.com/@caminho_do_codigo  
 
 ---
 
-## 📺 Assista ao processo de desenvolvimento
+## 📺 Processo de Desenvolvimento
 
 [![Assista no YouTube](https://img.youtube.com/vi/OoMf_wjj3Nc/0.jpg)](https://youtu.be/OoMf_wjj3Nc)
 
@@ -126,11 +142,9 @@ Desenvolvedor de Software | Data Science
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.
-Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença MIT.  
+Consulte o arquivo `LICENSE` para mais informações.
 
 ---
 
-> 💡 *FiboPay PRO — Onde matemática encontra estratégia financeira.*
-
-```
+> 💡 **FiboPay PRO — Onde matemática encontra estratégia financeira.**
