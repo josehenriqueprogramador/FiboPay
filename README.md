@@ -129,7 +129,8 @@ open index.html
 **José Henrique Jardim**  
 Desenvolvedor de Software | Data Science  
 
-🔗 LinkedIn: https://linkedin.com/in/seu-link  
+🔗 LinkedIn: https://linkedin.com/in/jose-jardim-764143247
+
 📺 YouTube: https://youtube.com/@caminho_do_codigo  
 
 ---
