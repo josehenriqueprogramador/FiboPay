@@ -37,7 +37,6 @@ Ao invés de dividir valores de forma linear, o sistema utiliza a **Sequência d
 - 📄 **Exportação em PDF**  
   Gere relatórios profissionais das simulações
 
----
 
 ---
 
